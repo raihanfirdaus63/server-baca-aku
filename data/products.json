@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Draco",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/draco.jpg" 
+  },
+  {
+    "name": "Ara",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/ara.jpg" 
+  },
+  {
+    "name": "Hydra",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/hydra.jpg" 
+  },
+  {
+    "name": "Perseus",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/perseus.jpg" 
+  },
+  {
+    "name": "Lyra",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/lyra.jpg" 
+  },
+  {
+    "name": "Auristela",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/auristela.jpg" 
+  },
+  {
+    "name": "Volans",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "" 
+  },
+  {
+    "name": "Lynx",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "" 
+  },
+  {
+    "name": "Phoenix",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/phoenix.jpg" 
+  },
+  {
+    "name": "Cassiopeia",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/cassiopeia.jpg" 
+  },
+  {
+    "name": "Sirius",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/sirius.jpg" 
+  },
+  {
+    "name": "Orion",
+    "price": 150800,
+    "rating": 4.9,
+    "element": "water",
+    "image": "./images/orion.jpg" 
+  }
+]
